@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Aman 👋
 
-<!--
-**gitlaysblue/gitlaysblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering graduate specializing in **Data Analytics, Reporting Automation, and Business Intelligence**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+
+* 🔍 **SQL & Querying:** Querying structured databases to perform ad-hoc data analysis and generate automated operational reports.
+* 📊 **Interactive Dashboards:** Building visual summaries and KPI dashboards using **Power BI**.
+* 📈 **Data Analysis & Spreadsheets:** Data cleaning, financial reporting, and trend analysis using **Microsoft Excel** and **Google Sheets**.
+* 🤖 **Workflow & Automation:** Developing Python scripts and ML pipelines to automate manual data inspection and anomaly detection.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Databases & Querying:** SQL (MySQL)
+- **BI & Visualization:** Power BI, Streamlit
+- **Spreadsheets:** Microsoft Excel, Google Sheets
+- **Programming & Data Science:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV)
+- **Developer Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+### 📁 Featured Projects Portfolio
+
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** amansmusic01@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aman-yadav-055312352/)
