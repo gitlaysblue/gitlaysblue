@@ -24,8 +24,7 @@ Computer Science & Engineering graduate specializing in **Data Analytics, Report
 ---
 
 ### 📁 Featured Projects Portfolio
-
-
+🔗 [View my project portfolio](https://github.com/gitlaysblue/projects)
 ---
 
 ### 📫 Connect With Me
